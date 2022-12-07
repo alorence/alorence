@@ -1,4 +1,16 @@
-### Hi there 👋
+### Antoine Lorence
+
+<picture>
+    <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=alorence&show_icons=true&theme=apprentice"
+    media="(prefers-color-scheme: dark)"
+    />
+    <source
+    srcset="https://github-readme-stats.vercel.app/api?username=alorence&show_icons=true&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=alorence&show_icons=true" />
+</picture>
 
 My name is Antoine Lorence. I'm a freelance developer since 2015.
 
